@@ -27,8 +27,11 @@ Focado na construção, normalização e extração de dados utilizando linguage
 
 ### 🍃 [02. Bancos de Dados NoSQL](./02-NoSQL/)
 
-*(Em Construção)* 
-Módulo destinado à exploração de bancos de dados que fogem do paradigma tabular convencional (como orientados a documentos, chave-valor), com destaque conceitual para sua alta escalabilidade horizontal e esquemas flexíveis.
+Módulo destinado à exploração de bancos de dados que fogem do paradigma tabular convencional (como orientados a documentos baseados em JSON, ex: MongoDB), com destaque conceitual para flexibilidade de schema e estruturas aninhadas.
+
+**Trilha de Execução (Scripts):**
+
+1. **[Estrutura e Modelagem JSON](./02-NoSQL/01-estrutura-e-modelagem.js)**: Demonstração prática da flexibilidade do banco de dados documentais através das abordagens: Plana (*Flat*), Objeto Embutido (*Embedded Object*) e Arranjo de Documentos (*Arrays*).
 
 ---
 
