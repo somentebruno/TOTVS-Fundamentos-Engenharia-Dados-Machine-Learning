@@ -1,6 +1,6 @@
 # ✈️ Sistema de Gestão de Reservas de Viagens (SQL & ETL)
 
-Este módulo faz parte da trilha de estudos de **Fundamentos de Engenharia de Dados**, focado na implementação e evolução de um sistema de banco de dados relacional para gestão de viagens.
+Este módulo faz parte da trilha de estudos de **Engenharia de Dados**, focado na implementação e evolução de um sistema de banco de dados relacional para gestão de viagens.
 
 O projeto abrange desde a criação inicial do esquema até técnicas avançadas de **Data Wrangling** e **Normalização de Dados**, utilizando padrões da indústria para garantir a integridade e escalabilidade dos dados.
 
